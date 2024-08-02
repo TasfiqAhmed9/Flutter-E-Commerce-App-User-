@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "285361344183",
+    "project_id": "ecp-admin-ce001",
+    "storage_bucket": "ecp-admin-ce001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285361344183:android:7ac5a62792d1351743c732",
+        "android_client_info": {
+          "package_name": "com.example.ecp_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI6N6y3auZ74m2aFJKL9I4YdL3rOxSsZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285361344183:android:62af78a389b00df443c732",
+        "android_client_info": {
+          "package_name": "com.example.ecp_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI6N6y3auZ74m2aFJKL9I4YdL3rOxSsZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
